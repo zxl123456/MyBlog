@@ -9,19 +9,19 @@
       <div class="banner-grids">
           <div class="banner-grids-left">
             <div class="banner-grids-left-info">
-              <h4>Job Title</h4>
-              <p>Web Designer and Developer</p>
+                <h4>职位</h4>
+              <p>前 端 工 程 师</p>
             </div>
             <div class="banner-grids-left-info">
-              <h4>Name</h4>
-              <p>Xiaoli Zhu</p>
+              <h4>姓名</h4>
+              <p>朱 小 丽</p>
             </div>
             <div class="banner-grids-left-info">
-              <h4>ADDRESS</h4>
-              <p>ShenZhen</p>
+              <h4>目前所在地</h4>
+              <p>深 圳</p>
             </div>
             <div class="banner-grids-left-info">
-              <h4>EMAIL ADDRESS</h4>
+              <h4>  邮箱</h4>
               <p>845486385@qq.com</p>
             </div>
           </div>
@@ -30,8 +30,10 @@
               <img src="../assets/1.jpg" alt="">
             </div>
             <div class="banner-right-info">
-              <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque tellus dignissim dolor dignissim, sit amet convallis nisi dignissim.</h2>
-              <p>Donec dolor felis, consectetur eget massa non, mattis euismod est. Nam augue neque, hendrerit nec scelerisque non, ultrices at ligula. Praesent posuere, turpis eget lobortis elementum, ex ante ultricies ligula, sit amet varius lacus dui in magna. Aliquam erat volutpat. Nulla condimentum, enim vitae congue ultrices, nibh erat efficitur sem, vel iaculis lectus eros in turpis. Aliquam venenatis cursus suscipit.</p>
+              <h2>我叫朱小丽，今年22岁，来自湖南永州，毕业于湖南工学院13级软件工程专业</h2>
+              <p>于2017年毕业，算上实习期的一年，至今已工作近两年了，移动端及pc端的项目都有做过，移动端主要以框架为基础进行开发，如jqUI，superUI等轻框架，
+              pc端主要是后台用到框架较多，如easyUI、bootStrap等。最近流行的框架及前端技术方面，有做过智能点餐的小程序，类似饿了么、美团。由于所在的公司没有用到vue、react以及rn等这些当下较为流行的技术，
+              于是自己自学写了这几个相关的项目，具体请看我的个人技能展示及我的项目展示。</p>
             </div>
             <div class="banner-right-button">
               <div class="banner-right-button-info m_nav_item">
