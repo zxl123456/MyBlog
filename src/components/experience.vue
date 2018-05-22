@@ -9,7 +9,7 @@
               <i class="fa fa-folder-open" aria-hidden="true"></i>
             </div>
             <div class="experience-grid-info">
-              <h5>Ut dapibus nisi turpis</h5>
+              <h5>深圳市网通兴科技股份有限公司</h5>
               <p>Curabitur augue urna, venenatis vel enim at, sodales tempus diam. Aliquam ornare, magna a cursus tempus, arcu massa accumsan justo, non facilisis risus ante vel ex.</p>
             </div>
           </div>
